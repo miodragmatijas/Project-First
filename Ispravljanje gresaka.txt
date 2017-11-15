@@ -1,7 +1,0 @@
-
-·         Za neke stvari u controllerima bi bilo bolje napraviti view model i vratiti informacije. Npr napraviti view model koji æe imati SortName, SortAbrv itd… umjesto da se kombinira ViewBag i lista rezultata.
- 
- 
-Za MakeId što ste pitali, Id se ne bi trebao prikazivati kao polje za input. Jednostavno obrišite taj dio ako ste koristili scaffolding i ako vam je to sluèajno izgenerirano.
- 
-
